@@ -11,3 +11,6 @@ Steps to take on mobile:
 Place the video (mp4) in your Google Drive as stated in below.  Lightning captured image file(s) (PNG) will be in the respective video file name folders.
 
 Code is best used in Goog;e's Colab.
+
+
+![lightning](https://github.com/esaiaswt/LightningPhotoExtractionFromVideos/assets/51481300/36c819ec-9cbf-4767-907d-3772143e0a27)

@@ -10,7 +10,10 @@ Steps to take on mobile:
 
 Place the video (mp4) in your Google Drive as stated in below.  Lightning captured image file(s) (PNG) will be in the respective video file name folders.
 
-Code is best used in Goog;e's Colab.
+Code is best used in Google's Colab.
 
+Photos compiled together to view the lightning crawl in a video (using video editor):
+https://github.com/esaiaswt/LightningPhotoExtractionFromVideos/assets/51481300/678fa845-b16a-4649-bba7-a54a436bf6fe
 
+One of the majestic lightning photo:
 ![lightning](https://github.com/esaiaswt/LightningPhotoExtractionFromVideos/assets/51481300/36c819ec-9cbf-4767-907d-3772143e0a27)
